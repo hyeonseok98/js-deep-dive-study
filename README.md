@@ -1,5 +1,7 @@
 # 📌 모던 자바스크립트 딥다이브 스터디
 
+#### 💡 진도 체크: https://docs.google.com/spreadsheets/d/1JgSJVLYSrsec2k70X7taLNDv_Y50ZVyjLoJX6XMR3go/edit#gid=0
+
  <img src="https://github.com/hyeonseok98/js-deep-dive-study/assets/157561573/8a3cea4c-6470-42fb-a3af-81bf827af8f4" alt="js 딥다이브" width="350" height="400">
 
 <br /><br />
