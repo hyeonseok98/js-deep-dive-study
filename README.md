@@ -47,10 +47,35 @@
 | 회차 | 일시               | 발표 챕터       | 발표자         | 비고                       
 | ---- |-------------------|------------------|---------------|--------------------------|
 | -    | 5월 6일(월) 22:00  | OT 진행          | 임현석         |                          |         
-| 1    | 5월 11일(토) 16:00 | 4,5,6          | 임현석, 김성준, 김영범 |                         |
-| 2    | 5월 14일(화) 22:00 | 7,8,9,10       | 5/11일에 정함       |                         |
-
+| 1    | 5월 11일(토) 16:00 | 4,5,6          | 임현석, 김성준, 김영범 |                     |
+| 2    | 5월 14일(화) 22:00 | 7,8,9,10       | 조은영, 한예슬, 국민영 |                     |
+| 3    | 5월 18일(토) 16:00 | 11,12,13       | -                    |                     |
 
 <br /><br />
 
+
 ## 🐣 스터디 멤버(모두 초대 후 추가)
+<table>
+ <tr>
+    <td align="center"><a href="https://github.com/minyoungKuk"><img src="https://github.com/hyeonseok98/js-deep-dive-study/assets/157561573/39a9ffc0-7272-47ec-82e8-77d96d7fd516" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/iamheroine"><img src="https://github.com/hyeonseok98/js-deep-dive-study/assets/157561573/0d5736c8-e99f-4ce9-b215-5f8bc14fff63" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/ilovezerocokeya"><img src="https://github.com/hyeonseok98/js-deep-dive-study/assets/157561573/04ed3b2c-11dc-4df3-958a-979e1e83a572" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/kybaq"><img src="https://github.com/hyeonseok98/js-deep-dive-study/assets/157561573/bf25612b-a582-4040-ac1d-7adf5149d884" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/leeboa2005"><img src="https://github.com/hyeonseok98/js-deep-dive-study/assets/157561573/050b6056-20de-4070-b0c0-b790dd99eea1" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/LeeHareum"><img src="https://github.com/hyeonseok98/js-deep-dive-study/assets/157561573/46d08730-1b09-4042-9149-24481323dbcc" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/hyeonseok98"><img src="https://github.com/hyeonseok98/js-deep-dive-study/assets/157561573/9b82c39a-918d-4aab-8e47-988e1949d8c7" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Eunyoung-Jo"><img src="https://github.com/hyeonseok98/js-deep-dive-study/assets/157561573/dcb2bc40-f84a-4520-a91a-89b5da9b5f23" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/yeseul0809"><img src="https://github.com/hyeonseok98/js-deep-dive-study/assets/157561573/35913e1c-b42e-42e0-9864-efd5d4b26038" width="100px;" alt=""></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/minyoungKuk"><b>국민영</b></a></td>
+    <td align="center"><a href="https://github.com/iamheroine"><b>김도희</b></a></td>
+    <td align="center"><a href="https://github.com/ilovezerocokeya"><b>김성준</b></a></td>
+    <td align="center"><a href="https://github.com/kybaq"><b>김영범</b></a></td>
+    <td align="center"><a href="https://github.com/leeboa2005"><b>이보아</b></a></td>
+    <td align="center"><a href="https://github.com/LeeHareum"><b>이하름</b></a></td>
+    <td align="center"><a href="https://github.com/hyeonseok98"><b>임현석</b></a></td>
+    <td align="center"><a href="https://github.com/Eunyoung-Jo"><b>조은영</b></a></td>
+    <td align="center"><a href="https://github.com/yeseul0809"><b>한예슬</b></a></td>
+  </tr>
+</table>
